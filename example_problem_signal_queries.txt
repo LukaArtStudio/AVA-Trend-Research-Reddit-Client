@@ -1,0 +1,9 @@
+# Examples only. The API client accepts a user-supplied query.
+# These are examples of problem-signal phrasing, not user tracking.
+
+"is there an app for"
+"is there a tool for"
+"I do this manually"
+"there has to be an easier way"
+"how do you keep track"
+"why isn't there a simple way"

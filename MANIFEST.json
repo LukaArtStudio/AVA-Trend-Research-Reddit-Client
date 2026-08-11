@@ -1,0 +1,19 @@
+{
+  "project": "AVA Trend Research — Reddit Client",
+  "mode": "read-only",
+  "write_actions_implemented": false,
+  "persistent_reddit_database": false,
+  "user_profiling": false,
+  "ai_ml_training": false,
+  "html_scraping": false,
+  "files": [
+    ".env.example",
+    ".gitignore",
+    "PRIVACY_AND_SCOPE.md",
+    "README.md",
+    "REDDIT_REVIEW_NOTES.md",
+    "example_problem_signal_queries.txt",
+    "reddit_client.py",
+    "requirements.txt"
+  ]
+}
